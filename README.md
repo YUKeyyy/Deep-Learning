@@ -18,7 +18,9 @@
 #### 本机配置：
 
 GPU：NVIDIA GeForce RTX 2060 SUPER
+
 CPU：AMD Ryzen 5 3600 6-Core Processor 3.60 GHz
+
 内存：16G
 
 
