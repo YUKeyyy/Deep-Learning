@@ -1,30 +1,25 @@
 # DeepLearning
 
-#### 介绍
-主要用于深度学习的代码更新
+#### 背景介绍
 
-#### 软件架构
-软件架构说明
+该项目主要是为了进行学术研究，产生了一些python项目，但是在本地管理混乱，于是通过github进行项目的管理。
+该仓库用于在学术研究中的深度学习的代码更新,该仓库主要是为了储存一些用于基于深度学习的地震数据去噪的项目。
+开发工具：PyCharm 2020.1.2 社区版
+开发语言：Python
+神经网络架构：基于Pytorch
+可视化工具：TensorboardX
 
 
-#### 安装教程
+#### 本机配置：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+GPU：NVIDIA GeForce RTX 2060 SUPER
+CPU：AMD Ryzen 5 3600 6-Core Processor 3.60 GHz
+内存：16G
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  狄奥多修斯  --Master 【SWPU的一个在读研究生】
 
 
 #### 特技
